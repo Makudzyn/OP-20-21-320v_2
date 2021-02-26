@@ -1,3 +1,0 @@
-﻿  lab3var9.cpp
-C:\Users\alt\source\repos\lab3var9\lab3var9.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  lab3var9.vcxproj -> C:\Users\alt\source\repos\lab3var9\Debug\lab3var9.exe
