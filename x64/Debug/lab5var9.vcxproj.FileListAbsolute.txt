@@ -1,2 +1,0 @@
-C:\Users\alt\source\repos\lab5var9\x64\Debug\lab5var9.exe
-C:\Users\alt\source\repos\lab5var9\x64\Debug\lab5var9.pdb
