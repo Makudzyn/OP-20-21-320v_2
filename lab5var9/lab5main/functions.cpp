@@ -83,10 +83,10 @@ void printWithDefine(int const size, int* mass, int** mass1) {
 #endif // CHOICE
 
 }
-void clear(int* mass, int** mass1, int size) {
-	//Очистка памяти
+void clear(int* mass, int** mass1, int size) {	//Очистка памяти
 	for (int i = 0; i < size; i++)
 		delete[] * (mass1 + i);
+	delete[] mass1;
 	delete[] mass;
 }
 

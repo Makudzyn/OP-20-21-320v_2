@@ -6,8 +6,8 @@ int main() {
 	int size;
 	cout << "Введите N размер матрицы(N*N)>> "; cin >> size;
 
-	int* mass = new int[size * size * sizeof(int)]; 
-	int** mass1 = new int* [size * sizeof(int)];
+	int* mass = new int[size * size]; 
+	int** mass1 = new int* [size];
 
 	chekerOfDefine(size, mass, mass1); /*Делаем выбор в зависимости от наличия или отсутсвия макроса 
 	и тут же делаем преобразования в матрице*/

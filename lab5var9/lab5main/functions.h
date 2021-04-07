@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-#define CHOICE
+//#define CHOICE
 
 void odArrayWork(int const size, int* mass);
 void tdArrayWork(int const size, int** mass1);
