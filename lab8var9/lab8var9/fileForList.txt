@@ -1,0 +1,4 @@
+pdfReader      IObit      11  181,50
+Telegram       Nintendo   16  172,50
+Office         Microsoft  7   113,50
+Blender        E.A        5   169,50
