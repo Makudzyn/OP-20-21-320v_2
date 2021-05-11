@@ -1,0 +1,5 @@
+Office         Microsoft  18  165,50
+Blender        E.A        7   141,50
+qwea           qwee       2   1,00
+MemReduct      SAP_SG     3   156,50
+Telegram       Nintendo   9   159,50
